@@ -2,6 +2,8 @@
 
 A modern, responsive, and feature-packed atmospheric intelligence web application built with **React 19**, **Vite**, and **Tailwind CSS**, powered by the **Open-Meteo Global Meteorological API**.
 
+🚀 **Live Demo:** [https://live-weather-forecast-eta.vercel.app/](https://live-weather-forecast-eta.vercel.app/)
+
 ---
 
 ## ✨ Features
